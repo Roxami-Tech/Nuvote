@@ -97,7 +97,11 @@ Nuvote/
 ├── gradlew.bat
 └── README.md
 ```
-
+Screenshots 
+Notes : https://github.com/Roxami-Tech/Nuvote/blob/main/Screenshots/Screenshot_2026-11-09-12-38-38-930_com.mohamedriyaz.nuvote.jpg
+Tasks : https://github.com/Roxami-Tech/Nuvote/blob/main/Screenshots/Screenshot_2026-11-09-12-38-54-534_com.mohamedriyaz.nuvote.jpg
+Folders : https://github.com/Roxami-Tech/Nuvote/blob/main/Screenshots/Screenshot_2026-11-09-12-39-08-865_com.mohamedriyaz.nuvote.jpg
+Settings : https://github.com/Roxami-Tech/Nuvote/blob/main/Screenshots/Screenshot_2026-11-09-12-39-12-910_com.mohamedriyaz.nuvote.jpg
 ## Installation & Setup
 
 ### 1. Clone the Repository
