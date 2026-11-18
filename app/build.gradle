@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace 'com.mohamedriyaz.nuvote'
+    namespace 'com.roxamitech.nuvote'
     compileSdk 36
 
     defaultConfig {
-        applicationId 'com.mohamedriyaz.nuvote'
+        applicationId 'com.roxamitech.nuvote'
         minSdk 28
         targetSdk 34
         versionCode 1
